@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# YOLO / ML
+runs/
+datasets/
+outputs/
+weights/
+*.pt
+*.pth
+*.onnx
+
+# Video / images
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.png
+
+# OS
+.DS_Store
+Thumbs.db

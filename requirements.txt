@@ -1,0 +1,15 @@
+ultralytics>=8.2.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.66.0
+
+paddleocr>=2.8.0
+paddlepaddle>=2.6.0
+
+torch>=2.2.0
+transformers>=4.45.0
+accelerate>=0.33.0
+sentencepiece>=0.2.0
+
+rapidfuzz>=3.9.0
